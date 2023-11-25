@@ -6,6 +6,8 @@ Here is the root of the project PEVIITOR.RO
 
 ## https://peviitor.ro/
 
+## Welcome abord!
+Follow onboarding process so you know what we do and how you can contribute: https://github.com/peviitor-ro/onboarding-peviitor-ro
 
 ## Repositories
 1. Front-end : https://github.com/peviitor-ro/search-engine
