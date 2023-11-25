@@ -15,3 +15,4 @@ https://github.com/peviitor-ro/onboarding-peviitor-ro
 2. Back-end  : https://github.com/peviitor-ro/api
 3. INFoKIOSK : https://github.com/peviitor-ro/infochiosk
 4. ANDROID Mobile APP: https://github.com/peviitor-ro/androidAPP
+5. Local Portal: https://github.com/peviitor-ro/my-future-job
