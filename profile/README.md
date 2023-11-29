@@ -17,6 +17,7 @@ https://github.com/peviitor-ro/onboarding-peviitor-ro
 4. ANDROID Mobile APP: https://github.com/peviitor-ro/androidAPP
 5. Local Portal: https://github.com/peviitor-ro/my-future-job
 6. COMMUNITY : https://github.com/peviitor-ro/community
+7. QA : https://github.com/peviitor-ro/qa
 
 ## Scrapers
 1. https://github.com/peviitor-ro/spider_web_scraper_jmeker [JMeter]
