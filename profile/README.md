@@ -20,6 +20,7 @@ https://github.com/peviitor-ro/onboarding-peviitor-ro
 6. COMMUNITY : https://github.com/peviitor-ro/community
 7. QA : https://github.com/peviitor-ro/qa
 8. SOLR : https://github.com/peviitor-ro/solr
+9. Oportunitati si Cariere: https://github.com/peviitor-ro/oportunitatisicariere
 
 ## Scrapers
 1. https://github.com/peviitor-ro/spider_web_scraper_jmeker [JMeter]
