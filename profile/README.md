@@ -11,6 +11,11 @@ Follow onboarding process so you know what we do and how you can contribute:
 ## ONBOARDING  
 https://github.com/peviitor-ro/onboarding-peviitor-ro
 
+Project delivered:
+## ORASE  
+orase.peviitor.ro este un JSON care contine toate localitatile din Romania precum sunt ele definite de legea 2 din 1968
+https://github.com/peviitor-ro/orase
+
 ## Repositories
 1. Front-end : https://github.com/peviitor-ro/search-engine
 2. Back-end  : https://github.com/peviitor-ro/api
