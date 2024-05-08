@@ -6,7 +6,6 @@ Here is the root of the project PEVIITOR.RO
 
 
 
-## Welcome aboard!
 Follow onboarding process so you know what we do and how you can contribute:  
 ## ONBOARDING  
 https://github.com/peviitor-ro/onboarding-peviitor-ro
