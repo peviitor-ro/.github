@@ -27,6 +27,7 @@ https://peviitor.ro/
 7. QA : https://github.com/peviitor-ro/qa
 8. SOLR : https://github.com/peviitor-ro/solr
 9. Oportunitati si Cariere: https://github.com/peviitor-ro/oportunitatisicariere
+10. Local Environment: https://github.com/peviitor-ro/local_environment
 
 ## Scrapers
 1. https://github.com/peviitor-ro/spider_web_scraper_jmeker [JMeter]
