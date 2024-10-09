@@ -32,3 +32,6 @@ https://peviitor.ro/
 ## Scrapers
 1. https://github.com/peviitor-ro/spider_web_scraper_jmeker [JMeter]
 2. https://github.com/peviitor-ro/peviitor_anofm_scraper [ANOFM]
+
+## Validator
+https://admin.peviitor.ro/ [Validator]
