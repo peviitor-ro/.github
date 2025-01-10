@@ -28,6 +28,7 @@ https://peviitor.ro/
 8. SOLR : https://github.com/peviitor-ro/solr
 9. Oportunitati si Cariere: https://github.com/peviitor-ro/oportunitatisicariere
 10. Local Environment: https://github.com/peviitor-ro/local_environment
+11. Bots on discord: https://github.com/peviitor-ro/bots_discord
 
 ## Scrapers
 1. https://github.com/peviitor-ro/spider_web_scraper_jmeker [JMeter]
