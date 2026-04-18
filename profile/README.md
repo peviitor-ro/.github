@@ -25,7 +25,7 @@ https://peviitor.ro/
 6. COMMUNITY : https://github.com/peviitor-ro/community
 7. QA : https://github.com/peviitor-ro/qa
 8. SOLR : https://github.com/peviitor-ro/solr
-9. Oportunitati si Cariere: https://github.com/peviitor-ro/oportunitatisicariere
+9. Oportunitati si Cariere: https://oportunitatisicariere.ro
 10. Local Environment: https://github.com/peviitor-ro/local_environment
 11. Bots on discord: https://github.com/peviitor-ro/bots_discord
 12. IT Support: https://github.com/peviitor-ro/ITS
